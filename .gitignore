@@ -1,0 +1,10 @@
+.env
+*.session
+*.session-journal
+*.db
+*.db-wal
+*.db-shm
+sync.lock
+.venv/
+__pycache__/
+*.pyc
